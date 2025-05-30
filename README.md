@@ -107,6 +107,8 @@ proywant-international/
 │   └── utils.ts           # Utility functions
 ├── public/
 │   └── images/            # Static image assets
+├── styles/
+│   └── globals.css
 ├── next.config.js         # Next.js configuration
 ├── tailwind.config.ts     # Tailwind CSS configuration
 └── tsconfig.json          # TypeScript configuration
@@ -129,39 +131,6 @@ The website is fully responsive and optimized for:
 - Desktops (1024px+)
 - Large screens (1440px+)
 
-## 🚀 Deployment
-
-### Deploy to Vercel (Recommended)
-
-1. Push your code to GitHub
-2. Connect your repository to [Vercel](https://vercel.com)
-3. Deploy with one click
-
-### Manual Deployment
-
-```bash
-npm run build
-npm start
-```
-
-## 🔧 Customization
-
-You can easily customize the website by:
-
-1. Modifying the content in the component files
-2. Updating the color scheme in `tailwind.config.ts`
-3. Adding new pages in the `app/` directory
-4. Replacing placeholder images in the `public/` folder
-5. Updating the site metadata in `app/layout.tsx`
-
-## ⚡ Performance Features
-
-- **Server-Side Rendering (SSR)**: Fast initial page loads
-- **Static Generation**: Pre-built pages for optimal performance
-- **Image Optimization**: Automatic image optimization and lazy loading
-- **Code Splitting**: Automatic code splitting for faster loading
-- **Prefetching**: Link prefetching for instant navigation
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
@@ -172,16 +141,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📞 Contact
-
-Proywant International - [contact@proywant.com](mailto:contact@proywant.com)
-
-Project Link: [https://github.com/your-username/proywant-international](https://github.com/your-username/proywant-international)
-
 ## 🙏 Acknowledgements
 
 - [Next.js](https://nextjs.org/)
@@ -189,7 +148,7 @@ Project Link: [https://github.com/your-username/proywant-international](https://
 - [Tailwind CSS](https://tailwindcss.com/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Lucide Icons](https://lucide.dev/)
-- [Vercel](https://vercel.com/) for hosting
+
 ```
 
 
