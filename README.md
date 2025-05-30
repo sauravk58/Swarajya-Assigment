@@ -11,9 +11,6 @@ A modern, responsive website for Proywant International, an import-export compan
 
 ![Proywant International Website Preview](https://via.placeholder.com/800x400?text=Proywant+International+Website)
 
-## 🌐 Live Demo
-
-[View Live Demo](https://proywant-international.vercel.app) - *Coming Soon*
 
 ## 📹 Demo Video
 
@@ -33,7 +30,6 @@ A modern, responsive website for Proywant International, an import-export compan
 - **Testimonials**: Customer reviews carousel with auto-play
 - **Contact Form**: User-friendly contact form for inquiries
 - **Global Reach**: Countries section highlighting export destinations
-- **SEO Optimized**: Built-in SEO optimization with Next.js
 - **Performance Optimized**: Image optimization and lazy loading
 - **Accessibility**: Built with accessibility best practices
 
