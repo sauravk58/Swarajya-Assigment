@@ -57,8 +57,7 @@ A modern, responsive website for Proywant International, an import-export compan
 
 1. Clone the repository:
    ```bash
-   [git clone https://github.com/your-username/proywant-international.git
-   cd proywant-international](https://github.com/sauravk58/Swarajya-Assigment.git)
+  [https://github.com/sauravk58/Swarajya-Assigment.git)](https://github.com/sauravk58/Swarajya-Assigment.git)
    ```
 
 2. Install dependencies:
