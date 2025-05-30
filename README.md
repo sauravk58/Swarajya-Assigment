@@ -9,7 +9,8 @@
 
 A modern, responsive website for Proywant International, an import-export company specializing in soya sticks and raw corn flakes. This project is built with **Next.js 14** (App Router), **React.js**, **TypeScript**, and **Tailwind CSS**.
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/0cb89bd2-8763-45e2-a369-a68ef1f7cc02)
+
 
 
 
